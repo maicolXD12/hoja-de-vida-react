@@ -11,8 +11,8 @@ class App extends Component {
     const person = {
       avatar: 'https://scontent.fmzl1-1.fna.fbcdn.net/v/t1.6435-9/92812398_169629187835186_5468497294938603520_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=174925&_nc_eui2=AeGooBKeJmT8YWH1R72Qe30_5-8vd8UEioTn7y93xQSKhKfWbfCC4VNeu01tlswoFSSnozHct86AZLkvfo-oagqz&_nc_ohc=L_kbGWETw2sAX8J3Msx&_nc_ht=scontent.fmzl1-1.fna&oh=00_AT9RNgIpnSJqU-_q9EVx3tHX7FxC-mqLJeVgU2LN_dwNHg&oe=62B80C37',
       name: 'Michael David Herrada Castañeda',
-      profession: 'Tecnico en sistemas, Tecnologo en sistemas, Ingenieria en sistemas y telecomunicaciones,',
-      bio: '❤ Backend developer, database administration',
+      profession: 'Tecnico en sistemas, Tecnologo en sistemas, Ingenieria en sistemas y telecomunicaciones.',
+      bio: '❤ Backend developer, database administration ❤ ',
       address: 'Colombia, Manizales Caldas.',
       social: [
         {name: 'facebook', url: 'https://www.facebook.com/maicol.herrada.73'},
