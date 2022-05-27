@@ -30,8 +30,9 @@ class App extends Component {
         {degree: 'Ingenieria de sistemas', institution: 'Universidad de Manizales', startDate: 'enero 2020', endDate: 'Actualemente', description: ''},
       ],
       certificate: [
-        {name: 'FrontEnd Developer', institution: 'Platzi', date: 'Jan 2015', description: 'Aenean commodo ligula eget dolor. Aenean massa.' },
-        {name: 'Backend Developer', institution: 'Platzi', date: 'Jan 2016', description: 'Aenean commodo ligula eget dolor. Aenean massa.' }
+        {name: 'CISCO Systems', institution: 'SENA', date: '2019', description: 'Administración y manejo de bases de datos' },
+        {name: 'CISCO Systems', institution: 'SENA', date: '2014', description: 'Seguridad de la informacion y proteccion de servidores' },
+        {name: 'SENA', institution: 'SENA', date: '2019', description: 'Ingles basico aprobado' }
       ],
       skills: [
         {name: 'HTML5', percentage: '95%'},
