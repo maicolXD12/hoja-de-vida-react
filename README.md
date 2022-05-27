@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+HTML es un lenguaje de marcación que sirve para definir el contenido de las páginas web. Se compone en base a etiquetas, también llamadas marcas o tags, con las cuales conseguimos expresar las partes de un documento, cabecera, cuerpo, encabezados, párrafos, etc. En definitiva, el contenido de una página web.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+JAVASCRIPT
+JavaScript es el único lenguaje de programación que funciona en los navegadores de forma nativa (lenguaje interpretado sin necesidad de compilación). Por tanto se utiliza como complemento de HTML y CSS para crear páginas webs.
 
-## Available Scripts
+![1_yk5D5cQB3jd7EiPzrDrD5w](https://user-images.githubusercontent.com/80133850/170796644-52f25530-dfbd-4cd4-9b6e-e3ccb5d09881.png)
 
-In the project directory, you can run:
 
-### `npm start`
+Para aprender REACT primero debemos tener excelentes bases en Html y JavaScript
+JSX ( Extensión de sintaxis de JavaScript y ocasionalmente denominada JavaScript XML ) es una extensión de React para la sintaxis del lenguaje JavaScript que proporciona una forma de estructurar la representación de componentes utilizando una sintaxis familiar para muchos desarrolladores y es similar en apariencia del HTML.
+![aa5c2771263e158c0048c1ab98eca83e](https://user-images.githubusercontent.com/80133850/170796699-09645cf4-ac81-41b8-ae77-04c51cf75bdd.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![Uploading aa5c2771263e158c0048c1ab98eca83e.png…]()
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+METODOLOGIA BEN
+La metodología BEM divide la interfaz de usuario en bloques independientes para crear componentes escalables y reutilizables. Explicamos cómo funciona. BEM (Block, Element, Modifier o Bloque, Elemento, Modificador) es una metodología ágil de desarrollo basada en componentes.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![download](https://user-images.githubusercontent.com/80133850/170796736-b289ad6b-fd53-4453-a2b1-a88b73b32e62.jpg)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Para Realizar esta hoja de Vida Se implementaron las siguientes paginas web:
+Se implemento un bootstrap para la implementación de un Template
+Se implemento el Metodo Ben para el desarrollo de la Hoja de Vida
+Video APRENDE REACT BÁSICO en 30 MINUTOS: https://youtu.be/EMk6nom1aS4
+Video Aprende React Desde Cero - Curso de React Con Proyectos: https://www.youtube.com/watch?v=6Jfk8ic3KVk&t=192s
+Video Curso REACT JS ⚛️ - Aprende desde CERO 📈 Componentes, State, JSX (Tutorial Desde Cero en Español): https://youtu.be/T_j60n1zgu0
+Video Curso Profesional de React (firebase, hooks, redux, MaterialUI): https://youtu.be/5DAEdXKp7QA
+Aprende a utilizar la metodologia BEN: https://youtu.be/6LUz0MnNCiA?t=6
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
