@@ -68,14 +68,14 @@ class App extends Component {
                 <Skills skills={person.skills} />
                 <form>
 
-                <label htmlFor="name">Nombre completo </label>
-                  <input id="name" type="text" />
+                <p><label htmlFor="name">Nombre completo </label>
+                  <input id="name" type="text" /></p>
 
-                  <label htmlFor="mail">Correo electrónico </label>
-                  <input id="mail" type="email" />
+                  <p><label htmlFor="mail">Correo electrónico </label>
+                  <input id="mail" type="email" /></p>
 
-                  <label htmlFor="phone">Teléfono móvil </label>
-                  <input id="phone" type="tel" placeholder="+57" />
+                  <p><label htmlFor="phone">Teléfono móvil  </label>
+                  <input id="phone" type="tel" placeholder="+57" /></p>
 
                   <input type="submit" />
                 </form>
