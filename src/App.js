@@ -22,11 +22,12 @@ class App extends Component {
       ],
       experience: [
         {jobTitle: 'Tecnico en sistemas', company: 'Sumatec s.a', startDate: 'julio 2014', endDate: 'Enero 2015', jobDescription: 'Tecnico en sistemas estoy en la capacidad de analizar, diseñar, desarrollar, implementar y auditar soluciones informáticas de diversas organizaciones en el área de soporte técnico, mantenimiento preventivo, predictivo y correctivo de equipos de cómputo.'},
-        {jobTitle: 'Tecnologo en sistemas', company: 'DragonsDev', startDate: 'September 2014', endDate: 'Jan 2016', jobDescription: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.'},
+        {jobTitle: 'Tecnologo en sistemas', company: 'clinica psiquiatrica san juan de dios', startDate: 'Febrero 2019', endDate: 'octubre 2019', jobDescription: 'Tecnologo profesional en sistemas en administración de redes computacionales, gestión de sistemas operativos y bases de datos. '},
       ],
       education: [
-        {degree: 'Maestria Atomica', institution: 'MIT', startDate: 'Jan 2016', endDate: 'Jan 2017', description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.'},
-        {degree: 'Ingenieria Atomica', institution: 'Harvard', startDate: 'Jan 2014', endDate: 'Decenber 2015', description: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.'},
+        {degree: 'Tecnico en sistemas', institution: 'SENA', startDate: 'julio 2014', endDate: 'Enero 2015', description: ''},
+        {degree: 'tecnologo en sistemas', institution: 'SENA', startDate: 'febrero 2019', endDate: 'octubre 2019', description: ''},
+        {degree: 'Ingenieria de sistemas', institution: 'Universidad de Manizales', startDate: 'enero 2020', endDate: 'Actualemente', description: ''},
       ],
       certificate: [
         {name: 'FrontEnd Developer', institution: 'Platzi', date: 'Jan 2015', description: 'Aenean commodo ligula eget dolor. Aenean massa.' },
