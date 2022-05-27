@@ -35,10 +35,15 @@ class App extends Component {
         {name: 'SENA', institution: 'SENA', date: '2019', description: 'Ingles basico aprobado' }
       ],
       skills: [
-        {name: 'HTML5', percentage: '95%'},
-        {name: 'CSS', percentage: '90%'},
-        {name: 'JavaScript', percentage: '75%'},
-        {name: 'PHP', percentage: '50%'}
+        {name: 'HTML5', percentage: '99%'},
+        {name: 'CSS', percentage: '100%'},
+        {name: 'JavaScript', percentage: '86%'},
+        {name: 'PHP', percentage: '97%'},
+        {name: 'Phyton', percentage: '95%'},
+        {name: 'C#', percentage: '70%'},
+        {name: 'java', percentage: '89%'},
+        {name: 'React', percentage: '60%'},
+        {name: 'Git', percentage: '89%'}
       ]
     };
 
