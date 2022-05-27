@@ -66,6 +66,20 @@ class App extends Component {
                 <Education education={person.education} />
                 <Certificate certificate={person.certificate} />
                 <Skills skills={person.skills} />
+                <form>
+
+                <label htmlFor="name">Nombre completo </label>
+                  <input id="name" type="text" />
+
+                  <label htmlFor="mail">Correo electrónico </label>
+                  <input id="mail" type="email" />
+
+                  <label htmlFor="phone">Teléfono móvil </label>
+                  <input id="phone" type="tel" placeholder="+57" />
+
+                  <input type="submit" />
+                </form>
+
               </div>
           </div>
 
